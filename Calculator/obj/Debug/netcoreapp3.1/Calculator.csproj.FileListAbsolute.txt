@@ -1,0 +1,13 @@
+C:\Users\Rooz\Desktop\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\Rooz\Desktop\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\Rooz\Desktop\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\Rooz\Desktop\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\Rooz\Desktop\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Rooz\Desktop\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Rooz\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rooz\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Rooz\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\Rooz\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Rooz\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Rooz\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Rooz\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache

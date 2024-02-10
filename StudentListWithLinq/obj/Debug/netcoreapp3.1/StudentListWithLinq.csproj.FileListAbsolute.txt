@@ -1,0 +1,13 @@
+C:\Users\Rooz\Desktop\StudentListWithLinq\bin\Debug\netcoreapp3.1\StudentListWithLinq.exe
+C:\Users\Rooz\Desktop\StudentListWithLinq\bin\Debug\netcoreapp3.1\StudentListWithLinq.deps.json
+C:\Users\Rooz\Desktop\StudentListWithLinq\bin\Debug\netcoreapp3.1\StudentListWithLinq.runtimeconfig.json
+C:\Users\Rooz\Desktop\StudentListWithLinq\bin\Debug\netcoreapp3.1\StudentListWithLinq.runtimeconfig.dev.json
+C:\Users\Rooz\Desktop\StudentListWithLinq\bin\Debug\netcoreapp3.1\StudentListWithLinq.dll
+C:\Users\Rooz\Desktop\StudentListWithLinq\bin\Debug\netcoreapp3.1\StudentListWithLinq.pdb
+C:\Users\Rooz\Desktop\StudentListWithLinq\obj\Debug\netcoreapp3.1\StudentListWithLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rooz\Desktop\StudentListWithLinq\obj\Debug\netcoreapp3.1\StudentListWithLinq.AssemblyInfoInputs.cache
+C:\Users\Rooz\Desktop\StudentListWithLinq\obj\Debug\netcoreapp3.1\StudentListWithLinq.AssemblyInfo.cs
+C:\Users\Rooz\Desktop\StudentListWithLinq\obj\Debug\netcoreapp3.1\StudentListWithLinq.csproj.CoreCompileInputs.cache
+C:\Users\Rooz\Desktop\StudentListWithLinq\obj\Debug\netcoreapp3.1\StudentListWithLinq.dll
+C:\Users\Rooz\Desktop\StudentListWithLinq\obj\Debug\netcoreapp3.1\StudentListWithLinq.pdb
+C:\Users\Rooz\Desktop\StudentListWithLinq\obj\Debug\netcoreapp3.1\StudentListWithLinq.genruntimeconfig.cache

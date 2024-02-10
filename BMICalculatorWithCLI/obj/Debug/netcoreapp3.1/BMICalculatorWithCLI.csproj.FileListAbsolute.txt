@@ -1,0 +1,13 @@
+C:\Users\Rooz\Desktop\BMICalculatorWithCLI\bin\Debug\netcoreapp3.1\BMICalculatorWithCLI.exe
+C:\Users\Rooz\Desktop\BMICalculatorWithCLI\bin\Debug\netcoreapp3.1\BMICalculatorWithCLI.deps.json
+C:\Users\Rooz\Desktop\BMICalculatorWithCLI\bin\Debug\netcoreapp3.1\BMICalculatorWithCLI.runtimeconfig.json
+C:\Users\Rooz\Desktop\BMICalculatorWithCLI\bin\Debug\netcoreapp3.1\BMICalculatorWithCLI.runtimeconfig.dev.json
+C:\Users\Rooz\Desktop\BMICalculatorWithCLI\bin\Debug\netcoreapp3.1\BMICalculatorWithCLI.dll
+C:\Users\Rooz\Desktop\BMICalculatorWithCLI\bin\Debug\netcoreapp3.1\BMICalculatorWithCLI.pdb
+C:\Users\Rooz\Desktop\BMICalculatorWithCLI\obj\Debug\netcoreapp3.1\BMICalculatorWithCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rooz\Desktop\BMICalculatorWithCLI\obj\Debug\netcoreapp3.1\BMICalculatorWithCLI.AssemblyInfoInputs.cache
+C:\Users\Rooz\Desktop\BMICalculatorWithCLI\obj\Debug\netcoreapp3.1\BMICalculatorWithCLI.AssemblyInfo.cs
+C:\Users\Rooz\Desktop\BMICalculatorWithCLI\obj\Debug\netcoreapp3.1\BMICalculatorWithCLI.csproj.CoreCompileInputs.cache
+C:\Users\Rooz\Desktop\BMICalculatorWithCLI\obj\Debug\netcoreapp3.1\BMICalculatorWithCLI.dll
+C:\Users\Rooz\Desktop\BMICalculatorWithCLI\obj\Debug\netcoreapp3.1\BMICalculatorWithCLI.pdb
+C:\Users\Rooz\Desktop\BMICalculatorWithCLI\obj\Debug\netcoreapp3.1\BMICalculatorWithCLI.genruntimeconfig.cache

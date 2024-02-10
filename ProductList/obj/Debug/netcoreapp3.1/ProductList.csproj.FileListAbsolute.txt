@@ -1,0 +1,13 @@
+C:\Users\Rooz\Desktop\ProductList\bin\Debug\netcoreapp3.1\ProductList.exe
+C:\Users\Rooz\Desktop\ProductList\bin\Debug\netcoreapp3.1\ProductList.deps.json
+C:\Users\Rooz\Desktop\ProductList\bin\Debug\netcoreapp3.1\ProductList.runtimeconfig.json
+C:\Users\Rooz\Desktop\ProductList\bin\Debug\netcoreapp3.1\ProductList.runtimeconfig.dev.json
+C:\Users\Rooz\Desktop\ProductList\bin\Debug\netcoreapp3.1\ProductList.dll
+C:\Users\Rooz\Desktop\ProductList\bin\Debug\netcoreapp3.1\ProductList.pdb
+C:\Users\Rooz\Desktop\ProductList\obj\Debug\netcoreapp3.1\ProductList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rooz\Desktop\ProductList\obj\Debug\netcoreapp3.1\ProductList.AssemblyInfoInputs.cache
+C:\Users\Rooz\Desktop\ProductList\obj\Debug\netcoreapp3.1\ProductList.AssemblyInfo.cs
+C:\Users\Rooz\Desktop\ProductList\obj\Debug\netcoreapp3.1\ProductList.csproj.CoreCompileInputs.cache
+C:\Users\Rooz\Desktop\ProductList\obj\Debug\netcoreapp3.1\ProductList.dll
+C:\Users\Rooz\Desktop\ProductList\obj\Debug\netcoreapp3.1\ProductList.pdb
+C:\Users\Rooz\Desktop\ProductList\obj\Debug\netcoreapp3.1\ProductList.genruntimeconfig.cache

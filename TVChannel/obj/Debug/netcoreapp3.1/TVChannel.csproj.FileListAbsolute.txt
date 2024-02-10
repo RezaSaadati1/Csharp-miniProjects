@@ -1,0 +1,13 @@
+C:\Users\Rooz\Desktop\TVChannel\bin\Debug\netcoreapp3.1\TVChannel.exe
+C:\Users\Rooz\Desktop\TVChannel\bin\Debug\netcoreapp3.1\TVChannel.deps.json
+C:\Users\Rooz\Desktop\TVChannel\bin\Debug\netcoreapp3.1\TVChannel.runtimeconfig.json
+C:\Users\Rooz\Desktop\TVChannel\bin\Debug\netcoreapp3.1\TVChannel.runtimeconfig.dev.json
+C:\Users\Rooz\Desktop\TVChannel\bin\Debug\netcoreapp3.1\TVChannel.dll
+C:\Users\Rooz\Desktop\TVChannel\bin\Debug\netcoreapp3.1\TVChannel.pdb
+C:\Users\Rooz\Desktop\TVChannel\obj\Debug\netcoreapp3.1\TVChannel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rooz\Desktop\TVChannel\obj\Debug\netcoreapp3.1\TVChannel.AssemblyInfoInputs.cache
+C:\Users\Rooz\Desktop\TVChannel\obj\Debug\netcoreapp3.1\TVChannel.AssemblyInfo.cs
+C:\Users\Rooz\Desktop\TVChannel\obj\Debug\netcoreapp3.1\TVChannel.csproj.CoreCompileInputs.cache
+C:\Users\Rooz\Desktop\TVChannel\obj\Debug\netcoreapp3.1\TVChannel.dll
+C:\Users\Rooz\Desktop\TVChannel\obj\Debug\netcoreapp3.1\TVChannel.pdb
+C:\Users\Rooz\Desktop\TVChannel\obj\Debug\netcoreapp3.1\TVChannel.genruntimeconfig.cache

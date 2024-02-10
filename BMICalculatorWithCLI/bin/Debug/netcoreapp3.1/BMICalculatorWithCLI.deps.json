@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BMICalculatorWithCLI/1.0.0": {
+        "runtime": {
+          "BMICalculatorWithCLI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BMICalculatorWithCLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

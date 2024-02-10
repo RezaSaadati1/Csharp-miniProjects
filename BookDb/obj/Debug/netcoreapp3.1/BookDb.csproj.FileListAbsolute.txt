@@ -1,0 +1,13 @@
+C:\Users\Rooz\Desktop\BookDb\bin\Debug\netcoreapp3.1\BookDb.exe
+C:\Users\Rooz\Desktop\BookDb\bin\Debug\netcoreapp3.1\BookDb.deps.json
+C:\Users\Rooz\Desktop\BookDb\bin\Debug\netcoreapp3.1\BookDb.runtimeconfig.json
+C:\Users\Rooz\Desktop\BookDb\bin\Debug\netcoreapp3.1\BookDb.runtimeconfig.dev.json
+C:\Users\Rooz\Desktop\BookDb\bin\Debug\netcoreapp3.1\BookDb.dll
+C:\Users\Rooz\Desktop\BookDb\bin\Debug\netcoreapp3.1\BookDb.pdb
+C:\Users\Rooz\Desktop\BookDb\obj\Debug\netcoreapp3.1\BookDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rooz\Desktop\BookDb\obj\Debug\netcoreapp3.1\BookDb.AssemblyInfoInputs.cache
+C:\Users\Rooz\Desktop\BookDb\obj\Debug\netcoreapp3.1\BookDb.AssemblyInfo.cs
+C:\Users\Rooz\Desktop\BookDb\obj\Debug\netcoreapp3.1\BookDb.csproj.CoreCompileInputs.cache
+C:\Users\Rooz\Desktop\BookDb\obj\Debug\netcoreapp3.1\BookDb.dll
+C:\Users\Rooz\Desktop\BookDb\obj\Debug\netcoreapp3.1\BookDb.pdb
+C:\Users\Rooz\Desktop\BookDb\obj\Debug\netcoreapp3.1\BookDb.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Rooz\Desktop\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.exe
+C:\Users\Rooz\Desktop\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.deps.json
+C:\Users\Rooz\Desktop\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.runtimeconfig.json
+C:\Users\Rooz\Desktop\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.runtimeconfig.dev.json
+C:\Users\Rooz\Desktop\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.dll
+C:\Users\Rooz\Desktop\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.pdb
+C:\Users\Rooz\Desktop\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rooz\Desktop\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.AssemblyInfoInputs.cache
+C:\Users\Rooz\Desktop\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.AssemblyInfo.cs
+C:\Users\Rooz\Desktop\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\Rooz\Desktop\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.dll
+C:\Users\Rooz\Desktop\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.pdb
+C:\Users\Rooz\Desktop\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.genruntimeconfig.cache
